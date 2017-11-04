@@ -1,0 +1,15 @@
+{
+  "fields": ["name", "pageid", "estado"],
+  "data": [
+  ["K-poppers Baianos","kpoppersbaianoskorea","BA"  ],
+  ["K.O. Entertainment","koentertainmentoficial","SP"  ],
+  ["K-pop Meeting BH.","kmeetingbh","MG"  ],
+  ["Kpop Festival","Kpopfestivaloficial","MG"  ],
+  ["Kpop Ceará","kpopceara","CE"  ],
+  ["OMG K-POP","omgkpopmanaus","AM"  ],
+  ["Meet Kpop RJ","MEETKPOPRJ","RJ"  ],
+  ["K-Hallyu RJ","KHallyuRJ","RJ"  ],
+  ["K-Party","kpartyoficial","RJ"  ],
+  ["Kpop Experience","kpopexperiencebr","SP"  ]
+]
+}
