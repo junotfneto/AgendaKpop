@@ -1,12 +1,14 @@
 {
   "fields": ["estado"],
   "data": [
+"Destaques",
 "AM",
 "BA",
 "CE",
+"GO",
 "MG",
-"SP",
 "RJ",
+"SP",
 "Shows"
 ]
 }
