@@ -1,0 +1,12 @@
+{
+  "fields": ["estado"],
+  "data": [
+"AM",
+"BA",
+"CE",
+"MG",
+"SP",
+"RJ",
+"Shows"
+]
+}
